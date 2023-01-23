@@ -28,7 +28,7 @@
     "fake-useragent": "^1.0.1",
     "file-type": "^16.2.0",
     "fluent-ffmpeg": "^2.1.2",
-    "jsdom": "^17.0.0",
+    "jsdom": "^21.1.0",
     "lolis.life": "^4.0.0",
     "moment-timezone": "^0.5.32",
     "multistream": "^4.0.1",
